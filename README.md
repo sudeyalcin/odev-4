@@ -1,4 +1,4 @@
-# 🎉 Karınca Kolonisi Algoritması ile Yol Optimizasyonu (%100 ÜCRETSİZ!)
+# 🎉 Karınca Kolonisi Algoritması ile Yol Optimizasyonu 
 ## Antalya Muratpaşa Kargo Firması Rota Optimizasyonu
 
 **Ders:** BLG-307 Yapay Zeka Sistemleri — 2. Proje (2025-26 Güz)  
